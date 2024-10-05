@@ -3,3 +3,5 @@ Bir zamanlar, büyük bir klasör dolusu klasörlerin içinde resim dosyasıyla 
 İlk adım olarak, programcı Python’un dosya yönetimi için gerekli olan os ve glob kütüphanelerini kullanacaktı. Os kütüphanesi, klasörlerde gezinmeyi sağlar, glob ise belirli bir dosya türünü arayıp bulma işini kolaylaştırırdı.
 
 İşte programcının yazdığı sihirli kod:
+
+![Resim Açıklaması](images/collage_output_1.png)
