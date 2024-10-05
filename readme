@@ -1,0 +1,5 @@
+Bir zamanlar, büyük bir klasör dolusu klasörlerin içinde resim dosyasıyla uğraşan bir programcı vardı. Bu klasörlerin içinde sayısız alt klasörler ve alt klasörlerin içinde sayısız alt klasör vardı ve her birinde ilginç PNG dosyaları saklıydı. Programcı, tüm bu PNG resimlerini bir araya getirip bir listeye yüklemek istiyordu. Bunun için Python’un gücüne başvurmaya karar verdi.
+
+İlk adım olarak, programcı Python’un dosya yönetimi için gerekli olan os ve glob kütüphanelerini kullanacaktı. Os kütüphanesi, klasörlerde gezinmeyi sağlar, glob ise belirli bir dosya türünü arayıp bulma işini kolaylaştırırdı.
+
+İşte programcının yazdığı sihirli kod:
